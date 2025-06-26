@@ -1,6 +1,6 @@
 [submodule "Powershell-Scripts"]
 	path = Powershell-Scripts
 	url = git@github.com:egoisth777/Powershell-Scripts.git
-[submodule "OpusScript"]
-	path = OpusScript
-	url = ./OpusScript\\
+[submodule "Opus-Scripts"]
+	path = Opus-Scripts
+	url = git@github.com:egoisth777/Opus-Scripts.git
