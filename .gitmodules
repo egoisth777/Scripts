@@ -4,3 +4,6 @@
 [submodule "Opus-Scripts"]
 	path = Opus-Scripts
 	url = git@github.com:egoisth777/Opus-Scripts.git
+[submodule "Win-Automation"]
+	path = Win-Automation
+	url = git@github.com:egoisth777/Win-Automation.git
