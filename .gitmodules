@@ -7,3 +7,6 @@
 [submodule "Win-Automation"]
 	path = Win-Automation
 	url = git@github.com:egoisth777/Win-Automation.git
+[submodule "AHK-Scripts"]
+	path = AHK-Scripts
+	url = git@github.com:egoisth777/AHK-Scripts.git
