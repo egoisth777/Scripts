@@ -9,4 +9,5 @@ This repository is created as a collection of scripts that I created for various
     ./Opus-Scripts/ # Opus related automation scripts
     ./Powershell-Scripts/ # Powershell config related powershell modules
     ./Win-Automation/ # Windows related automation sccripts, small pieces of code
+    ./AHK-Scripts/ # Related to the AHK Scripts which are available on Windows
 ```
