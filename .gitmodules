@@ -10,3 +10,6 @@
 [submodule "AHK-Scripts"]
 	path = AHK-Scripts
 	url = git@github.com:egoisth777/AHK-Scripts.git
+[submodule "Nvim-Config"]
+	path = Nvim-Config
+	url = git@github.com:egoisth777/Nvim-Config.git
