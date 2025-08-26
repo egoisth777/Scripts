@@ -13,3 +13,6 @@
 [submodule "Configs"]
 	path = Configs
 	url = git@github.com:egoisth777/Configs.git
+[submodule "Powershell-Scripts"]
+	path = Powershell-Scripts
+	url = git@github.com:egoisth777/Powershell-Scripts.git
